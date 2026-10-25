@@ -10,6 +10,8 @@ Consignes : Octopus, cours 812, section 2143, consultées le 25 octobre 2026.
 | Daily Challenge | `DailyChallenge/real_world_analysis.md` | Cas réel documenté ECMWF/AIFS. |
 | Daily Challenge images | `DailyChallenge/image_transformations.ipynb` | Original, rotation 30°, miroirs, zoom ×1,2 et vérifications. |
 
+Le notebook XP fonctionne seul et télécharge automatiquement ses données : voir `ExercisesXP/README.md` pour l’ouverture directe dans Google Colab. Les autres notebooks utilisent les fichiers communs du dossier.
+
 Les notebooks contiennent les résultats exécutés et les graphiques. `results/` contient les exports, tables, données nettoyées et images ; `results/validation.json` indique les exécutions réussies.
 
 ## Refaire l'exécution

@@ -7,7 +7,8 @@
   {
     "notebook": "ExercisesXP/exercises_xp.ipynb",
     "code_cells": 9,
-    "status": "passed"
+    "status": "passed",
+    "verification": "Notebook seul exécuté depuis un dossier vide, téléchargement neuf des six archives ; aucune dépendance aux helpers du dépôt."
   },
   {
     "notebook": "ExercisesXPGold/exercises_gold.ipynb",
