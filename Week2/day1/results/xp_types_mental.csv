@@ -1,0 +1,12 @@
+colonne,dtype pandas,type et justification
+index,int64,Qualitative nominale : identifiant de ligne.
+Entity,str,Qualitative nominale : territoire ou code.
+Code,str,Qualitative nominale : territoire ou code.
+Year,str,Quantitative discrète temporelle : année à valider.
+Schizophrenia (%),str,Quantitative continue : taux de prévalence en pourcentage (conversion et contrôle nécessaires).
+Bipolar disorder (%),str,Quantitative continue : taux de prévalence en pourcentage (conversion et contrôle nécessaires).
+Eating disorders (%),str,Quantitative continue : taux de prévalence en pourcentage (conversion et contrôle nécessaires).
+Anxiety disorders (%),float64,Quantitative continue : taux de prévalence en pourcentage (conversion et contrôle nécessaires).
+Drug use disorders (%),float64,Quantitative continue : taux de prévalence en pourcentage (conversion et contrôle nécessaires).
+Depression (%),float64,Quantitative continue : taux de prévalence en pourcentage (conversion et contrôle nécessaires).
+Alcohol use disorders (%),float64,Quantitative continue : taux de prévalence en pourcentage (conversion et contrôle nécessaires).

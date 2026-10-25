@@ -1,0 +1,17 @@
+[
+  {
+    "produit":"Cahier",
+    "quantité":3,
+    "prix_unitaire":4.5
+  },
+  {
+    "produit":"Stylo",
+    "quantité":10,
+    "prix_unitaire":1.2
+  },
+  {
+    "produit":"Classeur",
+    "quantité":2,
+    "prix_unitaire":6.0
+  }
+]

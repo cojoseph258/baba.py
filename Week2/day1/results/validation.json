@@ -1,0 +1,22 @@
+[
+  {
+    "notebook": "DailyChallenge/image_transformations.ipynb",
+    "code_cells": 2,
+    "status": "passed"
+  },
+  {
+    "notebook": "ExercisesXP/exercises_xp.ipynb",
+    "code_cells": 9,
+    "status": "passed"
+  },
+  {
+    "notebook": "ExercisesXPGold/exercises_gold.ipynb",
+    "code_cells": 8,
+    "status": "passed"
+  },
+  {
+    "notebook": "ExercisesXPNinja/exercises_ninja.ipynb",
+    "code_cells": 6,
+    "status": "passed"
+  }
+]

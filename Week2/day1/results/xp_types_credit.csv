@@ -1,0 +1,17 @@
+colonne,dtype pandas,type et justification
+Gender,int64,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."
+Age,float64,Quantitative continue : mesure ou durée.
+Debt,float64,Quantitative continue : mesure ou durée.
+Married,int64,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."
+BankCustomer,int64,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."
+Industry,str,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."
+Ethnicity,str,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."
+YearsEmployed,float64,Quantitative continue : mesure ou durée.
+PriorDefault,int64,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."
+Employed,int64,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."
+CreditScore,int64,Quantitative discrète : compte de références/indicateur numérique à vérifier dans le dictionnaire source.
+DriversLicense,int64,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."
+Citizen,str,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."
+ZipCode,int64,"Qualitative nominale : code postal, ne pas en calculer la moyenne."
+Income,int64,Quantitative : montant de revenu déclaré.
+Approved,int64,"Qualitative nominale : catégorie ou indicateur binaire, même si stocké comme nombre."

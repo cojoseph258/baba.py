@@ -1,0 +1,10 @@
+colonne,dtype pandas,type et justification
+index,int64,"Qualitative nominale : identifiant de ligne, sans valeur de mesure."
+Year,int64,Quantitative discrète temporelle : année ; des différences ont un sens.
+Period,str,Qualitative nominale : périodicité de publication.
+Avg hrs per day sleeping,float64,Quantitative continue : durée moyenne en heures.
+Standard Error,float64,Quantitative continue : incertitude sur une estimation.
+Type of Days,str,Qualitative nominale : catégorie de jours.
+Age Group,str,"Qualitative ordinale : tranche d’âge ordonnée, pas un âge individuel."
+Activity,str,Qualitative nominale : activité.
+Sex,str,Qualitative nominale : groupe de population.
