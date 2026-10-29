@@ -1,0 +1,42 @@
+[
+  {
+    "notebook": "day2_daily_salary.ipynb",
+    "status": "passed",
+    "seconds": 1.7
+  },
+  {
+    "notebook": "day2_xp.ipynb",
+    "status": "passed",
+    "seconds": 1.7
+  },
+  {
+    "notebook": "day3_daily_crashes.ipynb",
+    "status": "passed",
+    "seconds": 1.6
+  },
+  {
+    "notebook": "day3_xp.ipynb",
+    "status": "passed",
+    "seconds": 1.5
+  },
+  {
+    "notebook": "day4_daily_superstore.ipynb",
+    "status": "passed",
+    "seconds": 1.9
+  },
+  {
+    "notebook": "day4_xp.ipynb",
+    "status": "passed",
+    "seconds": 2.1
+  },
+  {
+    "notebook": "day5_daily_interactive.ipynb",
+    "status": "passed",
+    "seconds": 2.1
+  },
+  {
+    "notebook": "day5_mini_project.ipynb",
+    "status": "passed",
+    "seconds": 2.3
+  }
+]
